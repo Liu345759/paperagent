@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+paper_history/
+.cursor/
+Thumbs.db
+.DS_Store
